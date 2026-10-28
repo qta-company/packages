@@ -1,0 +1,33 @@
+Package: qta-ui
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Maintainer: QTA <dev@qta.vn>
+Installed-Size: 31191
+Depends: qta
+Filename: pool/main/qta-ui_v1.0.0_linux_arm64.deb
+Size: 11651272
+MD5sum: 9c7363dfbb14afced1a8741cae684fdf
+SHA1: db17947c20677008fd2f61279a73f632553e9de7
+SHA256: a8b4513defc1c844b4678b977f18e6181bcb9ac94bf72f21acb764e739744c88
+SHA512: 09eb1fde5c68b0b9247d270813fb8978c0f9e321010fe5ceac2ad0d5e26c6347ccc707a1dd6a93ae5eb76643e0b8dd67943649b4872716baa8fd5beb4b15745e
+Homepage: https://qta.vn/
+Description: QTA client UI.
+License: BSD-3-Clause
+
+Package: qta
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Maintainer: qta <dev@qta.vn>
+Installed-Size: 40385
+Filename: pool/main/qta_v1.0.0_linux_arm64.deb
+Size: 15299588
+MD5sum: 62bc186d9dc36d590c58f5eba71b7ae2
+SHA1: 5c8913e81a6e63a4f9cdf2560fb25e9f60950ad3
+SHA256: 2876b246d6240467924cb7fe117689b35b05ebdcaca8a6122191247a3ff4ff62
+SHA512: 3a0031b677c0b54378d3368bc5d491f2fd1300f66568535966af444dc716a08e8274b834e09609cf0ce35d6edab32f4e78eca673a6b977bc9eeea78c4045584d
+Homepage: https://qta.vn/
+Description: QTA client.
+License: BSD-3-Clause
+
